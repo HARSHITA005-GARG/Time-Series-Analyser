@@ -10,7 +10,14 @@ An interactive web app that helps users analyze, visualize, and forecast time se
 - 🧠 Built with modular Python code (`src/` folder)
 
 ## 🧱 Project Structure
-
+Time_Series_Analyser/
+│
+├── app.py # Streamlit app
+├── src/
+│ ├── preprocessing.py # Data loading and cleaning
+│ ├── visualization.py # Plotting and decomposition
+│ ├── forecasting.py # Forecasting models
+│ └── utils.py # Helper utilities
 
 
 ## 🧩 Installation
@@ -27,5 +34,3 @@ pip install -r requirements.txt
 
 # Run the app
 streamlit run app.py
-
-
