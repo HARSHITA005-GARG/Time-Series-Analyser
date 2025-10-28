@@ -67,9 +67,9 @@ streamlit run app.py
 ```
 
 ## 📸 Preview
-![](images\Screenshot 2025-10-28 211513.png)
-![](images\Screenshot 2025-10-28 211543.png)
-![](images\Screenshot 2025-10-28 211611.png)
-![](images\Screenshot 2025-10-28 211628.png)
-![](images\Screenshot 2025-10-28 211636.png)
-![](images\Screenshot 2025-10-28 211648.png)
+![](images/1.png)
+![](images/2.png)
+![](images/3.png)
+![](images/4.png)
+![](images/5.png)
+![](images/6.png)
